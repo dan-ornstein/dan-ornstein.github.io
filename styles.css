@@ -1,0 +1,34 @@
+/* Colors */
+.color-blue {
+    color: #064789;
+}
+
+.color-light {
+    color: #EFF5FB;
+}
+
+.color-light-blue {
+    color: #88B0D8;
+}
+
+.color-dark {
+    color: #1A1B24;
+}
+
+/* Background colors */
+
+.bg-blue {
+   background-color: #064789;
+}
+
+.bg-light {
+    background-color: #EFF5FB;
+}
+
+.bg-light-blue {
+    background-color: #88B0D8;
+}
+
+.bg-dark {
+    background-color: #1A1B24;
+}
