@@ -1,18 +1,20 @@
 /* Colors */
+@import "https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&display=swap";
+body {
+  font-family: Lora;
+  font-size: 22px;
+}
+
 .color-blue {
   color: #064789;
 }
 
 .color-light {
-  color: #eff5fb;
-}
-
-a.navbar-brand.color-light:hover {
-  color: #dee4e1;
+  color: #eff5fb !important;
 }
 
 .color-light-blue {
-  color: #88b0d8;
+  color: #bddaed;
 }
 
 .color-dark {
@@ -25,15 +27,71 @@ a.navbar-brand.color-light:hover {
 }
 
 .bg-light {
-  background-color: #eff5fb;
+  background-color: #eff5fb !important;
 }
 
 .bg-light-blue {
-  background-color: #88b0d8;
+  background-color: #bddaed;
 }
 
 .bg-dark {
   background-color: #1a1b24;
+}
+
+.bg-beige {
+  background-color: #d4d0b0;
+}
+
+a.navbar-brand.color-light:hover {
+  color: #dee4e1;
+}
+
+.link-dark a {
+  color: #495057;
+  text-decoration: none;
+}
+.link-dark a h4 {
+  color: black;
+  border-bottom: 0px;
+}
+.link-dark a:hover {
+  text-decoration: underline;
+}
+
+.link-light a {
+  color: hsl(210deg, 4%, 47%);
+  text-decoration: none;
+}
+.link-light a h4 {
+  color: hsl(210deg, 4%, 47%);
+  border-bottom: 0px;
+}
+.link-light a:hover {
+  text-decoration: underline;
+}
+
+.page-section {
+  padding: 6rem 0;
+}
+
+.page-section .page-section-heading {
+  text-align: center;
+  font-size: 2.25rem;
+  line-height: 2rem;
+}
+
+.active-link {
+  text-decoration: underline;
+  text-underline-position: under;
+}
+
+.footer {
+  background-color: #064789;
+  padding: 10px;
+}
+.footer a {
+  color: #eff5fb;
+  font-size: 25px;
 }
 
 /*# sourceMappingURL=styles.css.map */

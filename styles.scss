@@ -1,38 +1,106 @@
 /* Colors */
+$blue: #064789;
+$light: #eff5fb;
+$light-blue: #bddaed;
+$dark: #1a1b24;
+$beige: #d4d0b0;
+
+body {
+  font-family: Lora;
+  font-size: 22px;
+}
+
 .color-blue {
-  color: #064789;
+  color: $blue;
 }
 
 .color-light {
-  color: #eff5fb;
+  color: $light !important;
+}
+
+.color-light-blue {
+  color: $light-blue;
+}
+
+.color-dark {
+  color: $dark;
+}
+
+/* Background colors */
+
+.bg-blue {
+  background-color: $blue;
+}
+
+.bg-light {
+  background-color: $light !important;
+}
+
+.bg-light-blue {
+  background-color: $light-blue;
+}
+
+.bg-dark {
+  background-color: $dark;
+}
+
+.bg-beige {
+  background-color: $beige;
 }
 
 a.navbar-brand.color-light:hover {
   color: #dee4e1;
 }
 
-.color-light-blue {
-  color: #88b0d8;
+.link-dark {
+  a {
+    color: #495057;
+    text-decoration: none;
+    h4 {
+      color: black;
+      border-bottom: 0px;
+    }
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
 
-.color-dark {
-  color: #1a1b24;
+.link-light {
+  a {
+    color: hsl(210, 4%, 47%);
+    text-decoration: none;
+    h4 {
+      color: hsl(210, 4%, 47%);
+      border-bottom: 0px;
+    }
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
 
-/* Background colors */
-
-.bg-blue {
-  background-color: #064789;
+.page-section {
+  padding: 6rem 0;
+}
+.page-section .page-section-heading {
+  text-align: center;
+  font-size: 2.25rem;
+  line-height: 2rem;
 }
 
-.bg-light {
-  background-color: #eff5fb;
+.active-link {
+  text-decoration: underline;
+  text-underline-position: under;
 }
 
-.bg-light-blue {
-  background-color: #88b0d8;
+.footer {
+  background-color: $blue;
+  padding: 10px;
+  a {
+    color: $light;
+    font-size: 25px;
+  }
 }
 
-.bg-dark {
-  background-color: #1a1b24;
-}
+@import "https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&display=swap";

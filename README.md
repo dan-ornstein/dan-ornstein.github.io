@@ -22,7 +22,7 @@ npm install -g sass
 
 ```
 
-sass --watch styles/styles.scss:styles/styles.css
+sass --watch styles.scss:styles/styles.css
 
 ```
 
