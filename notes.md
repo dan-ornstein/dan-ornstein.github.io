@@ -80,10 +80,12 @@ This is a cloud recording of my Talmud class.
 
 https://zoom.us/rec/play/WJE9ja1UctunswK9bEE79chplUZIKz_wWOupVcxCq-WyAKFi0ZBejqW9079N9lLIzAOJ4sJDYecZFBHP.W6DcNnNFoij7-4a9?autoplay=true&startTime=1655737622000
 
+https://us02web.zoom.us/rec/share/_RpPrrTLJ8Ll9s1OS3FIPOUvKSXTb4sfGSOEE2ith63wL0m6erC_xFoUEhEkvikw.Dov5czB6tyIqdsNZ?pwd=*%u78fj?
+
 This is a youtube recording of a program I led at Valley Beit Midrash in Arizona.
 
 https://www.valleybeitmidrash.org/learning-library/?_sfm_embed_speaker=Ornstein%2C%20Rabbi%20Dan
 
+video: https://drive.google.com/file/d/1zhHV19khTjaZPj4m_0O3CRtJDWQ7_1Xy/view?usp=sharing
 
-<!-- New stuff -->
-https://mail.google.com/mail/u/0/#inbox/FMfcgzGpHHNfkPWxJdnCzPlhjDTbRnWT
+https://www.youtube.com/watch?v=niLAmPOr9X4

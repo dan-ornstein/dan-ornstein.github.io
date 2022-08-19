@@ -10,7 +10,7 @@ body {
 }
 
 .color-light {
-  color: #eff5fb !important;
+  color: #f2f0e7 !important;
 }
 
 .color-light-blue {
@@ -27,7 +27,7 @@ body {
 }
 
 .bg-light {
-  background-color: #eff5fb !important;
+  background-color: #f2f0e7 !important;
 }
 
 .bg-light-blue {
@@ -90,7 +90,7 @@ a.navbar-brand.color-light:hover {
   padding: 10px;
 }
 .footer a {
-  color: #eff5fb;
+  color: #f2f0e7;
   font-size: 25px;
 }
 
