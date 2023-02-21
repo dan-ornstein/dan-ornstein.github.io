@@ -26,6 +26,16 @@ body {
   color: $dark;
 }
 
+/* Border color */
+
+.border-light {
+  border-color: $light;
+
+  &:focus {
+    box-shadow: none
+  }
+}
+
 /* Background colors */
 
 .bg-blue {
