@@ -21,6 +21,14 @@ body {
   color: #1a1b24;
 }
 
+/* Border color */
+.border-light {
+  border-color: #f2f0e7;
+}
+.border-light:focus {
+  box-shadow: none;
+}
+
 /* Background colors */
 .bg-blue {
   background-color: #064789;
