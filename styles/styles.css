@@ -91,6 +91,7 @@ a.navbar-brand.color-light:hover {
 .active-link {
   text-decoration: underline;
   text-underline-position: under;
+  text-decoration-color: #f2f0e7;
 }
 
 .footer {
